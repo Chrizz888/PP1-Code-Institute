@@ -44,6 +44,8 @@ Contributions are welcome! Please fork this repository and submit a pull request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-Thanks to Unsplash for free images.
-Thanks to Pexels for free videos.
+## Acknowledgements
+- Thanks to [Unsplash](https://unsplash.com/) for free images.
+- Thanks to [Pexels](https://www.pexels.com/) for free videos.
+- Visit our partner website for instant meditation sessions: [Meditation.com](https://www.meditation.com)
+
